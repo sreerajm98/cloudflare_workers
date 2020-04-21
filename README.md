@@ -1,3 +1,6 @@
+## Deployed final project
+* https://new_worker.sreerajm.workers.dev/
+
 # Cloudflare Workers Internship Application: Full-Stack
 
 ## What is it?
